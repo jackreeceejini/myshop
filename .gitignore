@@ -1,2 +1,4 @@
 /env
 myshop/db.sqlite3
+myshop/myshop/settings.py
+myshop/.env
